@@ -35,12 +35,18 @@ Create a form that generate a name card with a responsive UI. All inputs are req
 
 ### Web
 1. Form
+
 ![form-web](resources/questions/form-web.png)
-1. Card Name
+
+2. Card Name
+
 ![card-web](resources/questions/card-web.png)
 
 ### Responsive Mobile
 1. Form
+
 ![form-web](resources/questions/form-responsive.png)
-1. Card Name
+
+2. Card Name
+
 ![card-web](resources/questions/card-responsive.png)
