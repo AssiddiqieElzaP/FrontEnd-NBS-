@@ -28,7 +28,7 @@ Create a form that generate a name card with a responsive UI. All inputs are req
     yarn start
     ```
 
-## Additional Objective
+## Optional Objective
 1. Add input upload file and show it on the result (name card)
 
 ## Expectation Test
