@@ -1,4 +1,4 @@
-# Junior Frontend Test
+# Frontend Test
 
 ## Prerequisites
 1. Nodejs: "latest"
